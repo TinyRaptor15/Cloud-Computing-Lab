@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    text-decoration: double;
+}
+
+h1 {
+    color: rgb(133, 85, 2)
+}
+
+h2 {
+    color: coral
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: large;
+}
